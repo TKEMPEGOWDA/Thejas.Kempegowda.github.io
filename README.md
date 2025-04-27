@@ -1,18 +1,18 @@
 # Thejas.Kempegowda.github.io
-#Portfolio
 
-##Projects
-###Projects 1
+
+## Projects
+### Projects 1
 -Description
 -Links
 
-###Projects 2
+### Projects 2
 -Description
 -Links
 
-#Education
+# Education
 - University
 
-#Work History
-##Work place 1
-##Work place 2
+# Work History
+## Work place 1
+## Work place 2
