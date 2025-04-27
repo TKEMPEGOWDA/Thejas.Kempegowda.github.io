@@ -1,7 +1,6 @@
 title: Thejas Kempegowda
 logo: docs/assets/Thejas_Image2.png
 description: 🚀 Full-stack developer with 5 years of experience in Angular, TypeScript, React, JavaScript, Java, .NET, Spring Boot, Azure & AWS. 🎯 Mastering AI & ML at Stony Brook to build smart, scalable solutions!
-remote_theme: pages-themes/midnight@v0.2.0
-plugins: - jekyll-remote-theme
+theme: jekyll-theme-midnight
 
 
