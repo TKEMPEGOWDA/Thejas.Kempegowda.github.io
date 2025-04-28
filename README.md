@@ -60,7 +60,12 @@ Aug 2023 - May 2025
 - Created an augmented reality system by overlaying animated 3D objects onto static background images with occlusion handling.
 - Designed a stereo vision system producing red-blue anaglyph 3D video using dual virtual cameras to simulate depth perception for AR/VR applications.
 
-
-
+## React Web-Based Transcription & Translation App
+[Repository](https://github.com/TKEMPEGOWDA/Real-Time-Transcription-Web-App)
+- Developed an React and Next.js web app for speech-to-text, text-to-speech, and translation using OpenAI Whisper.
+- Integrated Web Workers for efficient in-browser ML model execution, reducing main-thread load.
+- Utilized @xenova/transformers for real-time transcription and multi-language translation.
+- Optimized processing speed and UI responsiveness by leveraging parallel execution and async processing.
+- Styled the application with Tailwind CSS, ensuring a responsive, modern, and user-friendly interface.
 
 
