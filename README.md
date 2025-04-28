@@ -25,19 +25,35 @@ Passionate about building scalable software solutions, I have nearly 5 years of 
 - Managed the analysis, design, development, deployment and production support of systems based on sprint releases, successfully delivering features on average 2 weeks ahead of schedule.
 - Delivered reusable services and WPF-based user interfaces and conducted unit testing, resulting in a 20% reduction in development time.
 
+### <p align="center">⚙️ Skills & Expertise  </p>
 
-## Projects
-### Projects 1
--Description
--Links
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
 
-### Projects 2
--Description
--Links
+#### 🖥️ Frontend Development
 
-# Education
-- University
+Building responsive and interactive user interfaces with Angular-16, modern React features and Next.js for optimal performance.
 
-# Work History
-## Work place 1
-## Work place 2
+![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
+
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Backend Development
+
+Creating robust server-side applications with focus on scalability and clean architecture.
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+  </td>
+  </tr>
+  </table>
+</div>
+
+
