@@ -12,7 +12,7 @@ Passionate about building scalable software solutions, I have nearly 5 years of 
 - Databases: Microsoft SQL Server, SSMS, MongoDB.
 
 # 💻 Professional Experience:
-## Accenture 
+## Accenture
 ## Senior Software Engineer
 ### Nov 2021 - Aug 2023
 - Conducted comprehensive requirement gathering sessions with stakeholders, analyzing user needs and designing tailored media queries; enhanced website responsiveness, leading to a 40% increase in user satisfaction ratings.
@@ -44,7 +44,7 @@ Passionate about building scalable software solutions, I have nearly 5 years of 
 Master of Science - Computer Engineering
 Aug 2023 - May 2025
 
-# Academic Projects
+# 🏗️ Academic Projects
 ## Custom Image Processing
 [Repository](https://github.com/TKEMPEGOWDA/Custom-Image-Processing)
 - Implemented custom convolution operations from scratch for grayscale images, including Gaussian and mean filters, without using external image processing libraries.
@@ -69,6 +69,14 @@ Aug 2023 - May 2025
 - Optimized processing speed and UI responsiveness by leveraging parallel execution and async processing.
 - Styled the application with Tailwind CSS, ensuring a responsive, modern, and user-friendly interface.
 
+## 🥇 Achievements & Certifications
+- Microsoft Azure Fundamentals (AZ-900) — Certification No.: R013F7-DD4528.
+- Received Excellence Award for developing accessible user interfaces for individuals with disabilities (2019).
+- Teaching assistant for Computer Vision lab.
+- Teaching assistant for Digital Image Processing course.
+- Graduated with First Class Honors (PES University).
+- Recipient of Dr MRD Merit Scholarship.
+- Recipient of Prof CNR Rao Merit scholarship.
 
 
 
