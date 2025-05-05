@@ -16,32 +16,32 @@ Aug 2023 - May 2025
 
 # Professional Experience:
 ## Accenture 
-## Application Development Senior Analyst
+## Senior Software Engineer
 ### Nov 2021 - Aug 2023
 - Conducted comprehensive requirement gathering sessions with stakeholders, analyzing user needs and designing tailored media queries; enhanced website responsiveness, leading to a 40% increase in user satisfaction ratings.
 - Engineered lazy loading for modules and components, achieving a 30% reduction in initial load time; employed Angular Input, Output, ViewChild, Subject, and BehaviorSubject to optimize data handling and interactivity.
-- Integrated advanced data presentation tools, ag-Grid and SlickGrid to optimize information display; this initiative increased user interaction speed by 25%, enabling quicker decision-making for data-driven tasks.
-- Devised efficient Excel data processing methods utilizing npm-excel.js and XLSX for efficient Excel data processing, reducing file handling time by 40%; implemented Crypto.js for secure data encryption, enhancing data protection.
-- Designed and developed RESTful APIs using Spring Boot and Spring Web MVC, integrating with AWS Lambda for serverless data transformations and automated Excel report generation with 10,000+ records. Leveraged AWS S3 for secure storage of exports and deployed backend services on EC2 for scalable performance, ensuring high availability during peak loads and reducing manual handling by 40%.
+- Integrated advanced data presentation tools, ag-Grid and SlickGrid, in conjunction with RxJS and NgRx for reactive state management, boosting user interaction speed by 25% and accelerating data-driven decision-making.
+- Designed and developed RESTful APIs using ASP.NET Core, integrating Azure Functions for serverless data transformations and report generation with 10,000+ records. Leveraged Azure Blob Storage for secure storage of reports.
+- Deployed backend services on Azure App Service and Virtual Machines for scalable performance and high availability. Implemented Crypto.js for secure client-side data encryption, contributing to a 40% reduction in manual handling.
 - Created over 15+ stored procedures, 10+ functions, 5+ views, and numerous triggers and complex queries crafted to address project requirements, while optimizing query performance through indexing strategies.
-- Orchestrated the seamless migration of critical applications to Azure PaaS; streamlined infrastructure management processes that resulted in a 30% decrease in operational costs and improved system performance for 200+ users.
+- Orchestrated the seamless migration of critical applications to Azure PaaS; streamlined infrastructure management processes that resulted in a 30% decrease in operational costs and improved system performance for 20000+ users.
 
 
 ## Accenture
-## Application Development Analyst
+## Software Engineer
 ### Nov 2019 - Nov 2021
+- Led end-to-end SDLC activities including requirement analysis, system design, development, testing, deployment, and production support, ensuring timely delivery of sprint-based features an average of 2 weeks ahead of schedule.
 - Implemented a custom JavaScript library to enable calendar functionality, allowing users to seamlessly toggle between daily, weekly, and monthly views. This enhancement boosted navigation efficiency, reducing time spent locating specific data by 15 minutes per user session.
 - Integrated Angular with d3.js to develop real-time reporting applications, incorporating Tube charts, sunburst charts, Pie charts, stacked bar charts, trend charts, and grouped bar charts in the UI using live data.
-- Configured and maintained CI/CD pipelines via Git and Docker, integrating with Kubernetes for container orchestration. This improved deployment reliability and reduced environment-specific bugs by 30%.
-- Drafted comprehensive documents to assist colleagues and newcomers in understanding deployment processes across 5 diverse environments and setting up build pipelines, which contributed to a 20% reduction in onboarding time for new team members.
+- Contributed to the configuration of CI/CD pipelines, improving deployment reliability and reducing the number of environment-specific bugs by 30%.
 
 
 ## Accenture
-## Application Development Associate
+## Associate Software Engineer
 ### Nov 2018 - Nov 2019
 - Spearheaded the development of a major feature enhancement by designing an intuitive user interface for individuals with disabilities. Took full ownership of this project, which led to recognition and an award.
-- Managed the analysis, design, development, deployment and production support of systems based on sprint releases, successfully delivering features on average 2 weeks ahead of schedule.
-- Delivered reusable services and WPF-based user interfaces and conducted unit testing, resulting in a 20% reduction in development time.
+- Drafted comprehensive documents to assist colleagues and newcomers in understanding deployment processes across 5 diverse environments and setting up build pipelines, which contributed to a 20% reduction in onboarding time for new team members.
+- Delivered reusable services and user interfaces and conducted unit testing, resulting in a 20% reduction in development time.
 
 # Academic Projects
 ## Custom Image Processing
