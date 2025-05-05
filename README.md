@@ -1,9 +1,6 @@
-# About Me
+# 👨🏽‍💻 About Me
 Passionate about building scalable software solutions, I have nearly 5 years of experience in full-stack development, specializing in Angular, TypeScript, React, JavaScript, .NET, Spring Boot, Azure, AWS and CI/CD automation. Currently pursuing my master's in Computer Engineering at Stony Brook University, I'm expanding my expertise in AI, statistical analysis, and machine learning to bridge software engineering with intelligent applications.I have developed enterprise-grade web applications, optimized cloud solutions, and automated deployment pipelines. I thrive in fast-paced, collaborative environments, bringing a problem-solving mindset and a drive for innovation.
 
-# Education
-Master of Science - Computer Engineering
-Aug 2023 - May 2025
 
 # ⚙️ Skills & Expertise 
 
@@ -14,7 +11,7 @@ Aug 2023 - May 2025
 - Cloud Platforms: Azure (PaaS, MFA), Azure SQL, AWS (EC2, S3, Route 53, RDS).
 - Databases: Microsoft SQL Server, SSMS, MongoDB.
 
-# Professional Experience:
+# 💻 Professional Experience:
 ## Accenture 
 ## Senior Software Engineer
 ### Nov 2021 - Aug 2023
@@ -43,6 +40,10 @@ Aug 2023 - May 2025
 - Drafted comprehensive documents to assist colleagues and newcomers in understanding deployment processes across 5 diverse environments and setting up build pipelines, which contributed to a 20% reduction in onboarding time for new team members.
 - Delivered reusable services and user interfaces and conducted unit testing, resulting in a 20% reduction in development time.
 
+# 📕 Education
+Master of Science - Computer Engineering
+Aug 2023 - May 2025
+
 # Academic Projects
 ## Custom Image Processing
 [Repository](https://github.com/TKEMPEGOWDA/Custom-Image-Processing)
@@ -67,5 +68,7 @@ Aug 2023 - May 2025
 - Utilized @xenova/transformers for real-time transcription and multi-language translation.
 - Optimized processing speed and UI responsiveness by leveraging parallel execution and async processing.
 - Styled the application with Tailwind CSS, ensuring a responsive, modern, and user-friendly interface.
+
+
 
 
